@@ -1,6 +1,16 @@
 Changelog
 =========
 
+2.2.5.1 (2018-11-05)
+--------------------
+*  Updated README (mainly for PyPi)
+
+2.2.5 (2018-11-05)
+------------------
+*  Explicitly declaring and testing Python 3.5, 3.6, and 3.7 support
+*  Tornado 5.x support (Tornado 4.x is supported as well)
+*  Dropped support for Python 2.6 and 3.3
+
 2.2.4 (2016-10-31)
 ------------------
 *  Resiliency to PostgreSQL restarts (`issue 147`_)
